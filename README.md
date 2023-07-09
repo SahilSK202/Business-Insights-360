@@ -53,11 +53,11 @@ Hence they have decided to implement the data analytics using PowerBi in their c
 
 ## Link to my Interactive Dashboard
 
-🔷Novypro Dashboard - https://www.novypro.com/project/business-insights-360-4
+🔷Novypro Dashboard - https://www.novypro.com/project/project-business-insights-360
 
 ## Data Model
 
-<img src="https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/DataModel.PNG" class="center">
+<img src="https://github.com/SahilSK202/Business-Insights-360/blob/main/Dashboard/DataModel.PNG" class="center">
 
 # Report Strucutre
 
@@ -80,27 +80,27 @@ Hence they have decided to implement the data analytics using PowerBi in their c
 
 ## Home Page
 
-![HomePage.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/HomePage.PNG)
+![HomePage.PNG](https://github.com/SahilSK202/Business-Insights-360/blob/main/Dashboard/HomePage.PNG)
 
 ## Finance View
 
-![FinanceView.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/FinanceView.PNG)
+![FinanceView.PNG](https://github.com/SahilSK202/Business-Insights-360/blob/main/Dashboard/FinanceView.PNG)
 
 ## Sales View
 
-![SalesView.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/SalesView.PNG)
+![SalesView.PNG](https://github.com/SahilSK202/Business-Insights-360/blob/main/Dashboard/SalesView.PNG)
 
 ## Marketing View
 
-![MarketingView.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/MarketingView.PNG)
+![MarketingView.PNG](https://github.com/SahilSK202/Business-Insights-360/blob/main/Dashboard/MarketingView.PNG)
 
 ## Supply Chain View
 
-![SupplyChainView.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/SupplyChainView.PNG)
+![SupplyChainView.PNG](https://github.com/SahilSK202/Business-Insights-360/blob/main/Dashboard/SupplyChainView.PNG)
 
 ## Executive View
 
-![ExecutiveView.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/ExecutiveView.PNG)
+![ExecutiveView.PNG](https://github.com/SahilSK202/Business-Insights-360/blob/main/Dashboard/ExecutiveView.PNG)
 
 ## Key Insights:
 
