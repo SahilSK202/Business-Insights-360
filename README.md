@@ -57,7 +57,7 @@ Hence they have decided to implement the data analytics using PowerBi in their c
 
 ## Data Model
 
-<img src="https://github.com/SahilSK202/Business-Insights-360/blob/main/Dashboard/DataModel.PNG" class="center">
+<img src="https://github.com/SahilSK202/Business-Insights-360/blob/main/Dashboard/DataModel.png" class="center">
 
 # Report Strucutre
 
